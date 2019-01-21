@@ -1,6 +1,6 @@
 ##############################################
 # This is a program for creating transit network using trip based network hierarchy. More details about
-# such a network can be found in following reference:
+# this can be found in the following reference:
 # Khani, A., M. Hickman, and H. Noh. Trip-Based Path Algorithms Using the Transit Network Hierarchy. 
 # Networks and Spatial Economics, Vol. 15, No. 3, 2014, pp. 635???653. 
 ##############################################
